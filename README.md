@@ -31,6 +31,4 @@ npm install
 Run the server:
 node app.js
 
-Open the application:
-Visit http://localhost:3000 in your browser.
-Allow location access if prompted to share your geolocation.
+
