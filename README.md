@@ -5,7 +5,9 @@ A real-time device tracking application that uses geolocation data from connecte
 #Features :
 
 Tracks and updates device locations in real-time on a map.
+
 Automatically removes a device’s marker when it disconnects.
+
 Displays a full-screen map centered on tracked devices.
 
 Project Structure :
