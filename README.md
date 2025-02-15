@@ -11,6 +11,7 @@ Displays a full-screen map centered on tracked devices.
 Project Structure :
 
 project-folder/
+
 ├── app.js               # Main server file
 
 ├── views/
@@ -18,7 +19,6 @@ project-folder/
 
 └── public/
     ├── script.js        # Client-side JavaScript for Socket.IO and Leaflet map
-    
     └── style.css        # Styling for the map display
     
 #Technologies Used :
